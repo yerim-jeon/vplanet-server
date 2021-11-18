@@ -1,6 +1,8 @@
-const token = process.env.TOKEN;
-const { RULES_URL } = require("../constants");
 const needle = require("needle");
+
+const { RULES_URL } = require("../constants");
+
+const token = process.env.TOKEN;
 
 const getAllRules = async () => {
   try {
