@@ -1,6 +1,6 @@
 # Twitter Infinite Scroll
 
-https://user-images.githubusercontent.com/79728856/142498502-00069566-2eb1-4736-97be-b173329d1174.mp4
+https://user-images.githubusercontent.com/79728856/142518728-f4928a73-4f33-4b10-abfb-3c2adb1370a1.mp4
 
 client: https://github.com/yerim-jeon/vplanet-client <br>
 server: https://github.com/yerim-jeon/vplanet-server
