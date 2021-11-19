@@ -16,7 +16,7 @@ Local 환경에서 실행을 위해 환경 변수 설정이 필요합니다.
 
 ### Client
 
-Root 디렉토리에 .env파일을 생성하고 아래와 같이 환경변수 값을 입력합니다.
+Root 디렉토리에 .env 파일을 생성하고 아래와 같이 환경변수 값을 입력합니다.
 
 ```
 REACT_APP_BASE_URL=<YOUR_PORT_NUMBER>
@@ -29,7 +29,7 @@ npm start
 
 ### Server
 
-Root 디렉토리에 .env파일을 생성하고 아래와 같이 환경변수 값을 입력합니다.
+Root 디렉토리에 .env 파일을 생성하고 아래와 같이 환경변수 값을 입력합니다.
 
 ```
 ORIGIN_URI=<YOUR_PORT_NUMBER>
